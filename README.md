@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yususus
 - 👀 I’m interested in chip technologies
 - 🌱 I’m currently learning c# , html,css,js
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ...
 
 <!---
